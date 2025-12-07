@@ -85,4 +85,13 @@ This dataset is **fully preprocessed**, including:
 ---
 
 ## 📁 Folder Structure
-
+📦 Time-Series-Forecasting-Dataset
+┣ 📂 data
+┃ ┣ raw.csv
+┃ ┗ processed.csv
+┣ 📂 notebooks
+┃ ┗ forecasting_analysis.ipynb
+┣ 📂 scripts
+┃ ┗ feature_engineering.py
+┣ 📜 README.md
+┗ 📜 requirements.txt
